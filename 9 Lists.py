@@ -13,6 +13,7 @@ myAwesomeList = ["One", "Two", "One", 1, 100.5, True]
 print(myAwesomeList)  # Whole List
 print(myAwesomeList[1])  # "Two"
 print(myAwesomeList[-1])  # True
+print("hello world the how how to make this make this learning in the learn ")
 print(myAwesomeList[-3])  # 1
 
 print(myAwesomeList[1:4])  # ['Two', 'One', 1]
@@ -141,3 +142,5 @@ print(f)
 
 g = [1, 2, 3, 4, 5, "A", "B"]
 print(g.pop(-3))
+ 
+

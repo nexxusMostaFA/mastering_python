@@ -11,7 +11,6 @@
 # -----------------------------
 
 # Tuple Syntax & Type Test
-
 myAwesomeTupleOne = ("Osama", "Ahmed")
 myAwesomeTupleTwo = "Osama", "Ahmed"
 
@@ -22,6 +21,11 @@ print(type(myAwesomeTupleOne))
 print(type(myAwesomeTupleTwo))
 
 # Tuple Indexing
+
+print(myAwesomeTupleOne[0])
+print(myAwesomeTupleTwo[0])
+print(myAwesomeTupleOne[1])
+print("hello  world ")
 
 myAwesomeTupleThree = (1, 2, 3, 4, 5)
 print(myAwesomeTupleThree[0])
